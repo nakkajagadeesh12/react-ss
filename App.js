@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 // import Component from './components/Component';
 // import HookComponent from './hooks/HookComponent';
 // import HookComponentTwo from './hooks/HookComponentTwo';
